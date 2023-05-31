@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/var/www/html/flutter_auth_bloc/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/var/www/html/flutter_auth_bloc/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/var/www/html/flutter_auth_bloc/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/var/www/html/e_katalog/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/var/www/html/e_katalog/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/var/www/html/e_katalog/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/var/www/html/flutter_auth_bloc/android@@:shared_preferences_android::release"
-      jars="/var/www/html/flutter_auth_bloc/build/shared_preferences_android/.transforms/dfc0d3e02ae64e0bfa6677a1de166856/transformed/out/jars/classes.jar"
+      name="/var/www/html/e_katalog/android@@:shared_preferences_android::release"
+      jars="/var/www/html/e_katalog/build/shared_preferences_android/.transforms/5b6b30cb0e6561df661165fca8a9818e/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:unspecified"
-      folder="/var/www/html/flutter_auth_bloc/build/shared_preferences_android/.transforms/dfc0d3e02ae64e0bfa6677a1de166856/transformed/out"
+      folder="/var/www/html/e_katalog/build/shared_preferences_android/.transforms/5b6b30cb0e6561df661165fca8a9818e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/var/www/html/flutter_auth_bloc/android@@:path_provider_android::release"
-      jars="/var/www/html/flutter_auth_bloc/build/path_provider_android/.transforms/6ead128843933df6e8befaf5f5e0ebb1/transformed/out/jars/classes.jar"
+      name="/var/www/html/e_katalog/android@@:path_provider_android::release"
+      jars="/var/www/html/e_katalog/build/path_provider_android/.transforms/d5ce55463c101b7183e9a45bb0058089/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
-      folder="/var/www/html/flutter_auth_bloc/build/path_provider_android/.transforms/6ead128843933df6e8befaf5f5e0ebb1/transformed/out"
+      folder="/var/www/html/e_katalog/build/path_provider_android/.transforms/d5ce55463c101b7183e9a45bb0058089/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

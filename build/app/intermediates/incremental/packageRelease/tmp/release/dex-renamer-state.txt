@@ -1,4 +1,4 @@
-#Wed May 31 15:52:59 WIB 2023
-base.0=/var/www/html/flutter_auth_bloc/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Wed May 31 17:37:58 WIB 2023
+base.0=/var/www/html/e_katalog/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

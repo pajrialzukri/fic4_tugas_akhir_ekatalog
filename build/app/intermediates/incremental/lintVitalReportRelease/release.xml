@@ -4,10 +4,10 @@
     minSdkVersion="16"
     targetSdkVersion="33"
     shrinking="true"
-    mergedManifest="/var/www/html/flutter_auth_bloc/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
-    manifestMergeReport="/var/www/html/flutter_auth_bloc/build/app/outputs/logs/manifest-merger-release-report.txt"
-    proguardFiles="/var/www/html/flutter_auth_bloc/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.2.0:/home/sim/snap/flutter/common/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
-    partialResultsDir="/var/www/html/flutter_auth_bloc/build/app/intermediates/lint_vital_partial_results/release/out">
+    mergedManifest="/var/www/html/e_katalog/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    manifestMergeReport="/var/www/html/e_katalog/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/var/www/html/e_katalog/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.2.0:/home/sim/snap/flutter/common/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/var/www/html/e_katalog/build/app/intermediates/lint_vital_partial_results/release/out">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -32,9 +32,9 @@
         value="android.app.Application" />
   </manifestPlaceholders>
   <mainArtifact
-      classOutputs="/var/www/html/flutter_auth_bloc/build/app/intermediates/javac/release/classes:/var/www/html/flutter_auth_bloc/build/app/tmp/kotlin-classes/release:/var/www/html/flutter_auth_bloc/build/app/kotlinToolingMetadata:/var/www/html/flutter_auth_bloc/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      classOutputs="/var/www/html/e_katalog/build/app/intermediates/javac/release/classes:/var/www/html/e_katalog/build/app/tmp/kotlin-classes/release:/var/www/html/e_katalog/build/app/kotlinToolingMetadata:/var/www/html/e_katalog/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
       applicationId="com.myapp.flutter_auth_bloc"
-      generatedSourceFolders="/var/www/html/flutter_auth_bloc/build/app/generated/source/buildConfig/release:/var/www/html/flutter_auth_bloc/build/app/generated/aidl_source_output_dir/release/out:/var/www/html/flutter_auth_bloc/build/app/generated/renderscript_source_output_dir/release/out:/var/www/html/flutter_auth_bloc/build/app/generated/ap_generated_sources/release/out"
-      generatedResourceFolders="/var/www/html/flutter_auth_bloc/build/app/generated/res/rs/release:/var/www/html/flutter_auth_bloc/build/app/generated/res/resValues/release">
+      generatedSourceFolders="/var/www/html/e_katalog/build/app/generated/source/buildConfig/release:/var/www/html/e_katalog/build/app/generated/aidl_source_output_dir/release/out:/var/www/html/e_katalog/build/app/generated/renderscript_source_output_dir/release/out:/var/www/html/e_katalog/build/app/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/var/www/html/e_katalog/build/app/generated/res/rs/release:/var/www/html/e_katalog/build/app/generated/res/resValues/release">
   </mainArtifact>
 </variant>
